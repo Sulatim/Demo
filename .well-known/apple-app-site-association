@@ -1,0 +1,25 @@
+{
+
+    "applinks": {
+
+        "apps": [],
+
+        "details": [
+
+            {
+
+                "appID": "idv.chx.bankee.test",
+
+                "paths": [
+
+                    "*"
+
+                ]
+
+            }
+
+        ]
+
+    }
+
+}
